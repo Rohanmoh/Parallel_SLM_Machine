@@ -1,1 +1,0 @@
-****(First column= Makespan) ****(Second column= Tardiness penalty cost)
